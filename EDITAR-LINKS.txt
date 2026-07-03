@@ -1,0 +1,3 @@
+Substitua no index.html:
+CHECKOUT_PLANO_1_AQUI pelo link do Plano Básico
+CHECKOUT_PLANO_2_AQUI pelo link do Plano Premium
